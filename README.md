@@ -1,4 +1,4 @@
 # SecoundRepo
 This is My Secound Repo 
 <br>
-Author  -- Mriganka Guha
+Author  -- Mriganka Guha(Frontend Developer)
